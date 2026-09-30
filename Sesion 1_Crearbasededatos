@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS biblioteca_vania;
+USE biblioteca_vania;
